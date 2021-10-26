@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Epcot World Showcase Countries</h1>
+
+    <h3>MENU</h3>
+
+    <div>
+        <a href="epcotwebsite.html">Epcot</a><br>
+        <a href="epcotcountries.html">Countries</a><br>
+        <a href="epcotareas.html">Areas</a><br>
+    </div><br>
+
+    <img height="500px" src="https://i.pinimg.com/originals/ac/7d/c8/ac7dc851475b9d73cae0f37809b8271a.jpg">
+
+    <ul>
+        <li><a href="https://media1.fdncms.com/orlando/imager/u/blog/25888386/sdmfner93475932875-1024x576.jpg?cb=1567524456">Future World</a></li>
+        <li><a href="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2016/12/mpsatw9989271.jpg">Mexico</a></li>
+        <li><a href="https://allears.net/wp-content/uploads/2020/01/Norway-Pavilion-Epcot.jpg">Norway</a></li>
+        <li><a href="https://www.disneydining.com/wp-content/uploads/2015/05/epcot-china.jpg">China</a></li>
+        <li><a href="https://www.wdwinfo.com/wp-content/uploads/2018/09/germany.png">Germany</a></li>
+        <li><a href="https://www.wdwinfo.com/wp-content/uploads/2018/09/italy2.png">Italy</a></li>
+        <li><a href="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2018/02/fkjhr7698705.jpg">The American Adventure</a></li>
+        <li><a href="https://www.japanese-city.com/calendar/events/themes/lib/lid/1929.jpg">Japan</a></li>
+        <li><a href="https://www.wdwinfo.com/wp-content/uploads/2018/10/epcot-world-showcase-morocco.jpg">Morocco</a></li>
+        <li><a href="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2012/08/mfp102783LARGE.jpg">France</a></li>
+        <li><a href="https://www.wdwinfo.com/wp-content/uploads/2018/09/unitedkingdom.png">United Kingdom</a></li>
+        <li><a href="https://allears.net/wp-content/uploads/archive/tp/ep/canadaday13.jpg">Canada</a></li>
+    </ul>
+    
+</body>
+</html>
