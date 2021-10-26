@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<h1>Epcot World Areas</h1>
+
+<h3>MENU</h3>
+    <div>
+        <a href="epcotwebsite.html">Epcot</a><br>
+        <a href="epcotcountries.html">Countries</a><br>
+        <a href="epcotareas.html">Areas</a><br>
+    </div><br>
+
+    <img height="250px" src="https://sir.wdwnt.com/wdwnt.com/2019/08/epcot-neighborhoods.jpg">
+
+    <ul>
+        <li>World Discovery</li>
+        <li>World Celebration</li>
+        <li>World Nature</li>
+        <li>World Showcase</li>
+    </ul>
+
+    <form>
+        <h2>Have comments or updates?</h2>
+        <input type="text" name="firstName" placeholder="First Name">
+        <input type="text" name="lastName" placeholder="Last Name">
+        <input type="text" name="email" placeholder="Email">
+        <input type="text" name="comments" placeholder="Comments">
+        <input type="submit" value="Submit">
+    
+</body>
+</html>
